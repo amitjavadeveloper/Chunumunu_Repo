@@ -1,12 +1,14 @@
 body {
-    font-family: 'Arial', sans-serif;
+    background-color:#c3b1ca ;
+    font-family: "Times New Roman", Times, serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 header {
-    background-color: #f8f8f8;
+    background-color: #8d148d ;
+    color:#e7d6c9;
     padding: 20px;
     text-align: center;
 }
@@ -41,7 +43,7 @@ video{
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: rgba(238, 228, 230, 0.849);
     text-align: center;
     padding: 10px;
     position: fixed;
